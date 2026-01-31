@@ -1,0 +1,3 @@
+-- Q: What is Homer's Job Title?
+
+-- A: Let's ask SQL Server and find out...
