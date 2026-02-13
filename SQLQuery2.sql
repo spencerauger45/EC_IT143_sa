@@ -1,1 +1,0 @@
--- Q: How to extract first name from contact name?
